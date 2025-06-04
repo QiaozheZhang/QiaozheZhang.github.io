@@ -18,4 +18,4 @@ I am a PHD student advised by Jun Sun at Huazhong University of Science and Tech
     [blog](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html)
 
 
-(last updated: Feb 2025)
+(last updated: June 2025)
