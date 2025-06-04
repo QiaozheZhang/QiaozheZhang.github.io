@@ -11,6 +11,7 @@ description: 张乔喆
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+about: about/
 #
 # Flags below are optional
 #
@@ -23,6 +24,7 @@ footer-links:
   flickr:
   github: QiaozheZhang
   instagram:
+  blog: blog
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -34,14 +36,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: https-qiaozhezhang-github-io-blog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://qiaozhezhang.bestlab.top
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
