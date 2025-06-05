@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/cat.jpg" width="220" height="220">
+<img style="float:right; padding-left:10px" src="images/self&cat.jpg" width="220" height="220">
 
 I am a Ph.D. student supervised by Prof. Jun Sun at Huazhong University of Science and Technology. 
 
