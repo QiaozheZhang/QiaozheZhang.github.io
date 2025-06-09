@@ -19,7 +19,7 @@ I am a Ph.D. student supervised by Prof. Jun Sun at Huazhong University of Scien
 
 - **Multi-level multiple instance learning with transformer for whole slide image classification** <br>
   Ruijie Zhang, Qiaozhe Zhang, Yingzhuang Liu, Hao Xin, Yan Liu, Xinggang Wang <br>
-  Arxiv <br>
+  Arxiv 2023 <br>
     [paper](https://arxiv.org/abs/2306.05029) |
     [repo](https://github.com/hustvl/MMIL-Transformer/tree/main) |
     <del>blog</del>
