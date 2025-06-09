@@ -22,7 +22,7 @@ I am a Ph.D. student supervised by Prof. Jun Sun at Huazhong University of Scien
   Arxiv <br>
     [paper](https://arxiv.org/abs/2306.05029) |
     [repo](https://github.com/hustvl/MMIL-Transformer/tree/main) |
-    ～～blog～～
+    <del>blog</del>
 
 
 (last updated: June 2025)
