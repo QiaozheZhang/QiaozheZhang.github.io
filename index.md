@@ -6,7 +6,7 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="225" height="220">
 
-I am a Ph.D. student supervised by Prof. Jun Sun at Huazhong University of Science and Technology. 
+I am a Ph.D. student supervised by Prof. Jun Sun at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). 
 
 # Selected work
 
