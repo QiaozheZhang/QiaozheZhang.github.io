@@ -30,10 +30,33 @@ body {
   width: 100%;
 }
 
+hh1 {
+  font-family: 'Roboto';
+  color: #000;
+  font-weight: 900;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+hp {
+  margin: 15px 0;
+  font-weight: 900;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: 900;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -66,7 +89,6 @@ h4 {
 
 p {
   margin: 15px 0;
-  font-weight: 800;
 }
 
 a {
