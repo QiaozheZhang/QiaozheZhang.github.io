@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a Ph.D. student supervised by Prof. Jun Sun at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). 
 
-I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
+Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
 # Selected work
 
