@@ -292,7 +292,46 @@ footer {
   h1, h2, h3, h4, h5, h6 {
     color: white;
   }
+
+  .site-name {
+    color: white;
+  }
+
+  .site-description {
+    color: #ccc;
+  }
+
+  nav a {
+    color: #ccc;
+
+    &:hover, &:active {
+      color: white;
+    }
+  }
+
+  .date,
+  blockquote {
+    color: #ccc;
+    border-left-color: #444;
+  }
+
+  .wrapper-footer {
+    background-color: #222;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+  }
+
+  ::selection {
+    color: black;
+    background: #eee;
+  }
+
+  ::-moz-selection {
+    color: black;
+    background: #eee;
+  }
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
