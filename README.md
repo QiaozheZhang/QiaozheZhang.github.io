@@ -4,5 +4,5 @@ This repo is based on the template by [Jekyll Repository](https://github.com/jek
 
 Changes:
 
-- auto dark mode;
+- auto dark mode by "@media (prefers-color-scheme: dark)";
 - different icons;
