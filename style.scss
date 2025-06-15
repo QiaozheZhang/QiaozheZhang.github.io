@@ -195,7 +195,7 @@ img {
   color: #000;
   cursor: pointer;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -203,6 +203,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
 
   @include mobile {
