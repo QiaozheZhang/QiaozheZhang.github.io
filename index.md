@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="225" height="220">
+<img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="220" height="220">
 
 I am a Ph.D. student supervised by Prof. Jun Sun at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). 
 
@@ -24,6 +24,3 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
   Arxiv 2023 <br>
     [paper](https://arxiv.org/abs/2306.05029) |
     [repo](https://github.com/hustvl/MMIL-Transformer/tree/main) 
-
-
-(last updated: June 2025)
