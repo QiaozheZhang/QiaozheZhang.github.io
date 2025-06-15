@@ -50,7 +50,12 @@
     
     <footer class="container" style="margin-top: 50px; text-align: center; color: #aaa; font-size: 14px;">
     <p>
-    <span> (Last updated: June 2025)</span>
+    Last updated:
+    <script>
+      date = new Date(document.lastModified).toLocaleDateString()
+      document.write(date);
+    </script>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span id="busuanzi_container_site_uv">
       #Visitors: <span id="busuanzi_value_site_uv"></span>
     </span>
