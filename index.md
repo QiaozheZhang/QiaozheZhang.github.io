@@ -25,7 +25,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [paper](https://arxiv.org/abs/2306.05029) |
     [repo](https://github.com/hustvl/MMIL-Transformer/tree/main)
 
-%# Academic Services
-%Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, etc
+# Academic Services
+Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, etc
 
 
