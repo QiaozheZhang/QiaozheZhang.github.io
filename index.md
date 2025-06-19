@@ -23,4 +23,9 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
   Ruijie Zhang, Qiaozhe Zhang, Yingzhuang Liu, Hao Xin, Yan Liu, Xinggang Wang <br>
   Arxiv 2023 <br>
     [paper](https://arxiv.org/abs/2306.05029) |
-    [repo](https://github.com/hustvl/MMIL-Transformer/tree/main) 
+    [repo](https://github.com/hustvl/MMIL-Transformer/tree/main)
+
+%# Academic Services
+%Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, etc
+
+
