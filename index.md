@@ -6,7 +6,7 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="220" height="220">
 
-I am a Ph.D. student supervised by Prof. Jun Sun at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). 
+I am a Ph.D. student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by Prof. Jun Sun and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherId=15939). 
 
 Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
