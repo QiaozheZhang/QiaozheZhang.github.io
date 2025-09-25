@@ -12,6 +12,12 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 
 # Selected work
 
+- **Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization** <br>
+  Qiaozhe Zhang, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
+  Arxiv 2025 <br>
+    [paper (coming soon)]() |
+    [repo](https://github.com/QiaozheZhang/RSAM)
+
 - **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
   Qiaozhe Zhang, Ruijie Zhang, Jun Sun, Yingzhuang Liu <br>
   NeurIPS 2024 <br>
