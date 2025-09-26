@@ -18,7 +18,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [paper (coming soon)]() |
     [repo](https://github.com/QiaozheZhang/RSAM)
 
-- **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
+- ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS%202024-1e88e5?style=flat) **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
   Qiaozhe Zhang, Ruijie Zhang, Jun Sun, Yingzhuang Liu <br>
   NeurIPS 2024 <br>
     [paper](https://arxiv.org/abs/2306.05857) |
