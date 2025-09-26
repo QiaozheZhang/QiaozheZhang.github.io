@@ -120,6 +120,13 @@ img {
   color: $gray;
 }
 
+.underline{
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 2px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
