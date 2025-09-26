@@ -15,7 +15,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 # Selected work
 
 - <img src="https://img.shields.io/badge/Preprint-1e88e5?style=flat" style="vertical-align:-3px; margin-right:8px">**Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization** <br>
-  **Qiaozhe Zhang**, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
+  <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
   Arxiv 2025 <br>
     [paper (coming soon)]() |
     [repo](https://github.com/QiaozheZhang/RSAM)
