@@ -10,6 +10,8 @@ I am a Ph.D. student at [Huazhong University of Science and Technology](https://
 
 Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
+<!-- News -->
+
 # Selected work
 
 - <img src="https://img.shields.io/badge/Preprint-1e88e5?style=flat" style="vertical-align:-3px; margin-right:8px">**Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization** <br>
