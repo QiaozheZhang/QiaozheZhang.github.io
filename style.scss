@@ -120,6 +120,21 @@ img {
   color: $gray;
 }
 
+.badge{
+  display:inline-block;
+  padding:2px 8px;
+  border-radius:6px;
+  background:#1e88e5;       /* 主题色 */
+  color:#fff;
+  font-weight:600;
+  line-height:1;
+  vertical-align:-2px;       /* 和标题基线更贴 */
+}
+/* 可选：大小/颜色修饰 */
+.badge.sm{ padding:2px 6px; font-weight:400; }
+.badge.gray{ background:#64748b; }
+.badge.green{ background:#16a34a; }
+
 .underline{
   text-decoration: underline;
   text-decoration-skip-ink: none;
