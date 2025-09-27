@@ -34,6 +34,11 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [paper](https://arxiv.org/pdf/2306.05029) |
     [repo](https://github.com/hustvl/MMIL-Transformer/tree/main)
 
+<!-- - <span class="badge">ACM MM 2018</span> **Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial Network** <br>
+  Xin Yany, Jinyu Chen, Zhiwei Wang, <span class="underline"><b>Qiaozhe Zhang</b></span>, Wenyu Liu, Chunyuan Liao, Kwang-Ting Cheng <br>
+  Proceedings of the 26th ACM international conference on Multimedia, 896-904 <br>
+    [paper](https://drive.google.com/file/d/1xjo4Ghima4qP_VZGdxzn4ZjHPHkDqjnW/view)  -->
+
 # Services
 Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, ICLR'26, etc
 
