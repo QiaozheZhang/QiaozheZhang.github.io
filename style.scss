@@ -128,10 +128,10 @@ img {
   color:#fff;
   font-weight:600;
   line-height:1;
-  vertical-align:-2px;       /* 和标题基线更贴 */
+  vertical-align:-1px;       /* 和标题基线更贴 */
 }
 /* 可选：大小/颜色修饰 */
-.badge.sm{ padding:1px 6px; ont-size:12px; border-radius:4px; vertical-align:-1px; }
+.badge.sm{ padding:1px 6px; ont-size:8px; border-radius:4px; vertical-align:-1px; }
 .badge.gray{ background:#64748b; }
 .badge.green{ background:#16a34a; }
 
