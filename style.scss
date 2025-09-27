@@ -123,9 +123,9 @@ img {
 .hline{ display:inline-flex; align-items:center; gap:8px; }
 .badge{
   display:inline-flex; align-items:center;  /* 徽标内部也居中 */
-  padding:1px 6px; border-radius:4px;
-  background:#1e88e5; color:#fff; font-weight:600;
-  line-height:1; font-size:12px;
+  padding:2px 4px; border-radius:4px;
+  background:#1e88e5; color:#fff; font-weight:300;
+  line-height:1; font-size:13px;
 }
 /* 可选：大小/颜色修饰 */
 .badge.sm{ padding:2px 6px; font-size:12px; border-radius:4px; vertical-align:-1px; }
