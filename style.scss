@@ -140,6 +140,10 @@ img {
 }
 .newbadge:hover { filter: brightness(0.95); }
 .newbadge:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+.newbadge.green  	 { background:#43a047; } /* bib */
+.newbadge.orange 	 { background:#f6a623; } /* abstract */
+.newbadge.blue   	 { background:#1e88e5; } /* arXiv */
+.newbadge.red    	 { background:#e53935; } /* code/data */
 .newbadge.gray       { background:#757575; }          /* 灰 */
 .newbadge.slate      { background:#546e7a; }          /* 蓝灰 */
 .newbadge.brown      { background:#6d4c41; }          /* 棕 */
