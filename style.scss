@@ -133,40 +133,40 @@ img {
 .badge.green{ background:#16a34a; }
 
 .newbadges { display:flex; gap:8px; flex-wrap:wrap; margin:8px 0 14px; }
-.newbadges {
+.newbadge {
 	display:inline-block; padding:4px 10px; border-radius:8px;
 	background:#999; color:#fff; font-weight:600; line-height:1;
 	text-decoration:none; font-size:13px;
 }
-.newbadges:hover { filter: brightness(0.95); }
-.newbadges:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
-.newbadges.gray       { background:#757575; }          /* 灰 */
-.newbadges.slate      { background:#546e7a; }          /* 蓝灰 */
-.newbadges.brown      { background:#6d4c41; }          /* 棕 */
-.newbadges.yellow     { background:#fbc02d; color:#111; } /* 黄（浅底→深字） */
-.newbadges.amber      { background:#ffb300; color:#111; } /* 琥珀 */
-.newbadges.lime       { background:#9ccc65; color:#111; } /* 青柠 */
-.newbadges.lightgreen { background:#8bc34a; color:#111; } /* 浅绿 */
-.newbadges.emerald    { background:#2e7d32; }          /* 祖母绿-深 */
-.newbadges.teal       { background:#00897b; }          /* 水鸭 */
-.newbadges.cyan       { background:#00acc1; }          /* 青 */
-.newbadges.sky        { background:#29b6f6; }          /* 天蓝 */
-.newbadges.indigo     { background:#3949ab; }          /* 靛蓝 */
-.newbadges.navy       { background:#1a237e; }          /* 海军蓝-深 */
-.newbadges.deeppurple { background:#5e35b1; }          /* 深紫 */
-.newbadges.purple     { background:#8e24aa; }          /* 紫 */
-.newbadges.violet     { background:#7e57c2; }          /* 紫罗兰 */
-.newbadges.pink       { background:#d81b60; }          /* 粉玫 */
-.newbadges.rose       { background:#e91e63; }          /* 玫红 */
-.newbadges.maroon     { background:#ad1457; }          /* 酒红 */
-.newbadges.crimson    { background:#c2185b; }          /* 深玫红 */
-.newbadges.deeporange { background:#f4511e; }          /* 深橙 */
-.newbadges.orange2    { background:#fb8c00; }          /* 橙(次) */
-.newbadges.tangerine  { background:#f57c00; }          /* 橘 */
-.newbadges.coral      { background:#ff7043; }          /* 珊瑚 */
-.newbadges.red2       { background:#d32f2f; }          /* 红(次) */
-.newbadges.black      { background:#212121; }          /* 近黑 */
-.newbadges.white      { background:#ffffff; color:#111; border:1px solid #ddd; } /* 白底深字 */
+.newbadge:hover { filter: brightness(0.95); }
+.newbadge:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+.newbadge.gray       { background:#757575; }          /* 灰 */
+.newbadge.slate      { background:#546e7a; }          /* 蓝灰 */
+.newbadge.brown      { background:#6d4c41; }          /* 棕 */
+.newbadge.yellow     { background:#fbc02d; color:#111; } /* 黄（浅底→深字） */
+.newbadge.amber      { background:#ffb300; color:#111; } /* 琥珀 */
+.newbadge.lime       { background:#9ccc65; color:#111; } /* 青柠 */
+.newbadge.lightgreen { background:#8bc34a; color:#111; } /* 浅绿 */
+.newbadge.emerald    { background:#2e7d32; }          /* 祖母绿-深 */
+.newbadge.teal       { background:#00897b; }          /* 水鸭 */
+.newbadge.cyan       { background:#00acc1; }          /* 青 */
+.newbadge.sky        { background:#29b6f6; }          /* 天蓝 */
+.newbadge.indigo     { background:#3949ab; }          /* 靛蓝 */
+.newbadge.navy       { background:#1a237e; }          /* 海军蓝-深 */
+.newbadge.deeppurple { background:#5e35b1; }          /* 深紫 */
+.newbadge.purple     { background:#8e24aa; }          /* 紫 */
+.newbadge.violet     { background:#7e57c2; }          /* 紫罗兰 */
+.newbadge.pink       { background:#d81b60; }          /* 粉玫 */
+.newbadge.rose       { background:#e91e63; }          /* 玫红 */
+.newbadge.maroon     { background:#ad1457; }          /* 酒红 */
+.newbadge.crimson    { background:#c2185b; }          /* 深玫红 */
+.newbadge.deeporange { background:#f4511e; }          /* 深橙 */
+.newbadge.orange2    { background:#fb8c00; }          /* 橙(次) */
+.newbadge.tangerine  { background:#f57c00; }          /* 橘 */
+.newbadge.coral      { background:#ff7043; }          /* 珊瑚 */
+.newbadge.red2       { background:#d32f2f; }          /* 红(次) */
+.newbadge.black      { background:#212121; }          /* 近黑 */
+.newbadge.white      { background:#ffffff; color:#111; border:1px solid #ddd; } /* 白底深字 */
 .bibbox {
 	border:2px dotted #bbb; border-radius:8px; padding:12px 16px;
 	background:#fafafa; /* 深色主题下可改成 #111 并调色 */
