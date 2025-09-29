@@ -88,8 +88,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
         author={Zhang, Ruijie and Zhang, Qiaozhe and Liu, Yingzhuang and Xin, Hao and Liu, Yan and Wang, Xinggang},
         journal={arXiv preprint arXiv:2306.05029},
         year={2023}
-    }
-    </code></pre>
+    }</code></pre>
   </div>
   <div id="abstract" class="bibbox">
     <pre><code class="language-bibtex">Whole slide image (WSI) refers to a type of high-resolution scanned tissue image, which is extensively employed in computer-assisted diagnosis (CAD). The extremely high resolution and limited availability of region-level annotations make employing deep learning methods for WSI-based digital diagnosis challenging. Recently integrating multiple instance learning (MIL) and Transformer for WSI analysis shows very promising results. However, designing effective Transformers for this weakly-supervised high-resolution image analysis is an underexplored yet important problem. In this paper, we propose a Multi-level MIL (MMIL) scheme by introducing a hierarchical structure to MIL, which enables efficient handling of MIL tasks involving a large number of instances. Based on MMIL, we instantiated MMIL-Transformer, an efficient Transformer model with windowed exact self-attention for large-scale MIL tasks. To validate its effectiveness, we conducted a set of experiments on WSI classification tasks, where MMIL-Transformer demonstrate superior performance compared to existing state-of-the-art methods, i.e., 96.80% test AUC and 97.67% test accuracy on the CAMELYON16 dataset, 99.04% test AUC and 94.37% test accuracy on the TCGA-NSCLC dataset, respectively.</code></pre>
