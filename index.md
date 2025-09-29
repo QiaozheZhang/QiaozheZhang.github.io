@@ -21,10 +21,10 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [repo](https://github.com/QiaozheZhang/RSAM)
 
 <div class="badges">
-  <a class="badge green"  href="#bib">bib</a>
-  <a class="badge orange" href="#abstract">abstract</a>
-  <a class="badge blue"   href="https://arxiv.org/abs/2506.17121">arXiv</a>
-  <a class="badge red"    href="https://github.com/your/repo">code/data</a>
+  <a class="newbadge green"  href="#bib">bib</a>
+  <a class="newbadge orange" href="#abstract">abstract</a>
+  <a class="newbadge blue"   href="https://arxiv.org/abs/2506.17121">arXiv</a>
+  <a class="newbadge red"    href="https://github.com/your/repo">code/data</a>
 </div>
 
 <div id="bib" class="bibbox">
