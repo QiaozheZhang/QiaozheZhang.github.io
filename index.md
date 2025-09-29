@@ -20,6 +20,21 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [paper (coming soon)]() |
     [repo](https://github.com/QiaozheZhang/RSAM)
 
+<div class="badges">
+  <a class="badge green"  href="#bib">bib</a>
+  <a class="badge orange" href="#abstract">abstract</a>
+  <a class="badge blue"   href="https://arxiv.org/abs/2506.17121">arXiv</a>
+  <a class="badge red"    href="https://github.com/your/repo">code/data</a>
+</div>
+
+<div id="bib" class="bibbox">
+<pre><code class="language-bibtex">test</code></pre>
+</div>
+
+<div id="abstract" class="bibbox">
+<pre><code class="language-bibtex">test——abs</code></pre>
+</div>
+
 <!-- - ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS%202024-1e88e5?style=flat) **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br> -->
 - <span class="badge">NeurIPS 2024</span> **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Ruijie Zhang, Jun Sun, Yingzhuang Liu <br>
