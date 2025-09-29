@@ -188,30 +188,14 @@ img {
 }
 
 /* 可选：微动画（把上面的 padding/margin 移到这里，隐藏态设为 0） */
-.bibbox { 
-  max-height: 0; 
-  overflow: hidden;
-  padding: 0 16px; 
-  margin-top: 0;
-  transition: max-height .25s ease, padding .25s ease, margin .25s ease;
-}
-.bibbox:target { 
-  max-height: 70vh; 
-  padding: 12px 16px; 
+.bibbox {
+  display: none;
+  border: 2px dotted #bbb;
+  border-radius: 8px;
+  padding: 12px 16px;
+  background: #fafafa;
   margin-top: 8px;
 }
-
-/* 关闭按钮样式（可选） */
-.bibbox .close {
-  float: right;
-  text-decoration: none;
-  font-weight: 700;
-  opacity: .6;
-  margin-left: 8px;
-}
-.bibbox .close:hover { opacity: 1; }
-
-.bibbox { display: none; }
 
 /* 根据容器 data-open 决定显示哪个块（容器需在内容块之前） */
 .newbadges[data-open="bib"] ~ #bib { display: block; }
