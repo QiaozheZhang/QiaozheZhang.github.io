@@ -20,7 +20,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
     [paper (coming soon)]() |
     [repo](https://github.com/QiaozheZhang/RSAM)
 
-<div class="badges">
+<div class="newbadges">
   <a class="newbadge green"  href="#bib">bib</a>
   <a class="newbadge orange" href="#abstract">abstract</a>
   <a class="newbadge blue"   href="https://arxiv.org/abs/2506.17121">arXiv</a>
