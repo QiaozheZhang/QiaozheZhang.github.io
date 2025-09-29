@@ -132,10 +132,10 @@ img {
 .badge.gray{ background:#64748b; }
 .badge.green{ background:#16a34a; }
 
-.newbadges { display:flex; gap:8px; flex-wrap:wrap; margin:8px 0 14px; }
+.newbadges { display:flex; gap:8px; flex-wrap:wrap; margin:1px 0 1px; }
 .newbadge {
-	display:inline-block; padding:4px 10px; border-radius:8px;
-	background:#999; color:#fff; font-weight:600; line-height:1;
+	display:inline-block; padding:2px 6px; border-radius:2px;
+	background:#999; color:#fff; font-weight:100; line-height:1;
 	text-decoration:none; font-size:13px;
 }
 .newbadge:hover { filter: brightness(0.95); }
@@ -179,6 +179,13 @@ img {
   padding: 12px 16px;
   background: #fafafa;
   margin-top: 8px;
+}
+/* 仅在 bibbox 内让 pre/code 自动换行 */
+.bibbox pre,
+.bibbox code {
+  white-space: pre-wrap;   /* 保留换行与缩进，并允许自动换行 */
+  overflow-wrap: anywhere; /* 长单词/长URL也可断行 */
+  word-break: break-word;  /* 兼容性兜底 */
 }
 
 /* 根据容器 data-open 决定显示哪个块（容器需在内容块之前） */
