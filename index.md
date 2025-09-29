@@ -21,7 +21,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
   <a class="newbadge blue" href="" target="_blank" rel="noopener">arXiv (coming soon)</a>
-  <a class="newbadge red"  href="[https://github.com/your/repo](https://github.com/QiaozheZhang/RSAM)" target="_blank" rel="noopener">code/data</a>
+  <a class="newbadge red"  href="https://github.com/QiaozheZhang/RSAM" target="_blank" rel="noopener">code</a>
   </div>
   <div id="bib" class="bibbox">
     <pre><code class="language-bibtex">coming soon</code></pre>
