@@ -134,9 +134,9 @@ img {
 
 .newbadges { display:flex; gap:8px; flex-wrap:wrap; margin:1px 0 1px; }
 .newbadge {
-	display:inline-block; padding:1px 3px; border-radius:2px;
+	display:inline-block; padding:2px 4px; border-radius:2px;
 	background:#999; color:#fff; font-weight:100; line-height:1;
-	text-decoration:none; font-size:12px;
+	text-decoration:none; font-size:13px;
 }
 .newbadge:hover { filter: brightness(0.95); }
 .newbadge:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
@@ -180,7 +180,7 @@ img {
   margin-top: 8px;
 }
 .bibbox{
-  font-size: 12px;   /* 或 15px/14px 等 */
+  font-size: 13px;   /* 或 15px/14px 等 */
   line-height: 1.25;
 }
 /* 仅在 bibbox 内让 pre/code 自动换行 */
@@ -192,7 +192,7 @@ img {
 }
 .bibbox pre,
 .bibbox code{
-  font-size: 12px; 
+  font-size: 13px; 
   line-height: 1.25;
 }
 
