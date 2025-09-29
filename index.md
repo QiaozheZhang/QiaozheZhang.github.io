@@ -15,7 +15,6 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 # Selected work
 
 <!--
-<!-- -->
 - <span class="badge">Preprint</span> **TITLE** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
   Arxiv 2025 <br>
