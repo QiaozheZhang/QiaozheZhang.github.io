@@ -172,22 +172,6 @@ img {
 .newbadge.black      { background:#212121; }          /* 近黑 */
 .newbadge.white      { background:#ffffff; color:#111; border:1px solid #ddd; } /* 白底深字 */
 /* 让内容默认隐藏，只在被锚点命中时显示 */
-.bibbox { 
-  display: none;              /* 默认不显示 */
-  border:2px dotted #bbb; 
-  border-radius:8px; 
-  padding:12px 16px;
-  background:#fafafa;
-  margin-top:8px;
-  scroll-margin-top: 72px;    /* 有固定头部时，点击滚动的对齐 */
-}
-
-/* 命中锚点（#bib、#abstract ...）时显示该块 */
-.bibbox:target { 
-  display: block; 
-}
-
-/* 可选：微动画（把上面的 padding/margin 移到这里，隐藏态设为 0） */
 .bibbox {
   display: none;
   border: 2px dotted #bbb;
