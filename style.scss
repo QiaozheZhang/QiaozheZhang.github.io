@@ -234,6 +234,23 @@ img {
 /* 让“按钮”可点 */
 .newbadges .newbadge[data-tab]{ cursor:pointer; user-select:none; }
 
+/* 统一重置：button/label/a 这三种做成 .newbadge 时都走同一套 */
+.newbadges .newbadge {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+}
+
+/* 先关掉各家默认 outline */
+.newbadges .newbadge:focus { outline: none !important; }
+
+/* 用 box-shadow 做可访问的焦点环（跟随圆角） */
+.newbadges .newbadge:focus-visible {
+  outline: none !important;
+  box-shadow: 0 0 0 2px rgba(0,0,0,.18); /* 颜色可按需调整/用 currentColor */
+  border-radius: 8px;                    /* 与徽章圆角一致 */
+}
+
 .underline{
   text-decoration: underline;
   text-decoration-skip-ink: none;
