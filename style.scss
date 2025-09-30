@@ -140,8 +140,8 @@ img {
 }
 .newbadge:hover { filter: brightness(0.95); }
 .newbadge:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
-.newbadge.green  	 { background:#43a047; font-weight:500} /* bib */
-.newbadge.orange 	 { background:#f6a623; font-weight:500} /* abstract */
+.newbadge.green  	 { background:#43a047; font-weight:400} /* bib */
+.newbadge.orange 	 { background:#f6a623; font-weight:400} /* abstract */
 .newbadge.blue   	 { background:#1e88e5; } /* arXiv */
 .newbadge.red    	 { background:#e53935; } /* code/data */
 .newbadge.gray       { background:#757575; }          /* 灰 */
