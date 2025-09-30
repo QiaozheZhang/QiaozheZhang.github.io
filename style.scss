@@ -250,6 +250,20 @@ img {
   box-shadow: 0 0 0 2px rgba(0,0,0,.18); /* 颜色可按需调整/用 currentColor */
   border-radius: 8px;                    /* 与徽章圆角一致 */
 }
+.newbadges .newbadge {
+  font-weight: 100;          /* 你原来的设定 */
+  font-size: 13px;
+  line-height: 1;
+}
+
+.newbadges button.newbadge,
+.newbadges label.newbadge {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+  background: none;          /* 背景颜色还是由 .newbadge.* 决定 */
+  font: inherit;             /* 关键：家族/大小/字重全部继承 */
+}
 
 .underline{
   text-decoration: underline;
