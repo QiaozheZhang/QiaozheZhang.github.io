@@ -40,12 +40,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
   <a class="newbadge blue" href="" target="_blank" rel="noopener">pdf (coming soon)</a>
   <a class="newbadge red"  href="https://github.com/QiaozheZhang/RSAM" target="_blank" rel="noopener">code</a>
-  </div>
-    <div id="bib" class="bibbox" markdown="1">
-    ```
-    coming *s*oon
-    ```
-  </div>
+  <div id="bib" class="bibbox" markdown="1">coming *s*oon</div>
   <div id="abstract" class="bibbox" markdown="1"><pre><code class="language-bibtex">Sharpness (of the loss minima) is a common measure to investigate the generalization of neural networks. Intuitively speaking, the flatter the landscape near the minima is, the better generalization might be. Unfortunately, the correlation between many existing sharpness measures and the generalization is usually not strong, sometimes even weak. To close the gap between the intuition and the reality, we propose a novel sharpness measure, i.e., *Rényi sharpness*, which is defined as the negative Rényi entropy (a generalization of the classical Shannon entropy) of the loss Hessian. The main ideas are as follows: 1) we realize that *uniform* (identical) eigenvalues of the loss Hessian is most desirable (while keeping the sum constant) to achieve good generalization; 2) we employ the *Rényi entropy* to concisely characterize the extent of the spread of the eigenvalues of loss Hessian. Normally, the larger the spread, the smaller the (Rényi) entropy. To rigorously establish the relationship between generalization and (Rényi) sharpness, we provide several generalization bounds in terms of Rényi sharpness, by taking advantage of the reparametrization invariance property of Rényi sharpness, as well as the trick of translating the data discrepancy to the weight perturbation. Furthermore, extensive experiments are conducted to verify the strong correlation (in specific, Kendall rank correlation) between the Rényi sharpness and generalization. Moreover, we propose to use a variant of Rényi Sharpness as regularizer during training, i.e., Rényi Sharpness Aware Minimization (RSAM),  which turns out to outperform all existing sharpness-aware minimization methods. It is worthy noting that the test accuracy gain of our proposed RSAM method could be as high as nearly 2.5%, compared against the classical SAM method. </code></pre></div>
 
 <!-- -->
