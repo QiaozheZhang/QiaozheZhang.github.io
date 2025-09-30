@@ -20,7 +20,5 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 
 {% include paper_md/mmil.md %}
 
-<!-- {% include paper_md/gan_slam.md %} -->
-
 # Services
 Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, ICLR'26, etc
