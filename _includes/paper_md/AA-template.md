@@ -1,6 +1,6 @@
 - <span class="badge">Preprint</span> **TITLE** <br>
-  <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
-  Arxiv 2025 <br>
+  <span class="underline"><b>AUTHOR LIST<br>
+  ArXiv  <br>
   <div class="newbadges" id="tabs" data-open="">
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
