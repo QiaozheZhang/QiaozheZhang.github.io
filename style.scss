@@ -256,15 +256,6 @@ img {
   line-height: 1;
 }
 
-.newbadges button.newbadge,
-.newbadges label.newbadge {
-  -webkit-appearance: none;
-  appearance: none;
-  border: 0;
-  background: none;          /* 背景颜色还是由 .newbadge.* 决定 */
-  font: inherit;             /* 关键：家族/大小/字重全部继承 */
-}
-
 .underline{
   text-decoration: underline;
   text-decoration-skip-ink: none;
