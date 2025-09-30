@@ -27,14 +27,3 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 
 # Services
 Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, ICLR'26, etc
-
-
-<script>
-document.addEventListener('click', function (e) {
-  const btn = e.target.closest('.newbadges .newbadge[data-tab]');
-  if (!btn) return;
-  const wrap = btn.closest('.newbadges');
-  const tab = btn.dataset.tab;
-  wrap.dataset.open = (wrap.dataset.open === tab) ? '' : tab;
-});
-</script>
