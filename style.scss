@@ -217,6 +217,7 @@ img {
   .bibbox code{
     background: transparent !important;
     color: inherit;
+	font-family: 'Lato', Verdana, Helvetica, sans-serif;
   }
 }
 
@@ -242,9 +243,6 @@ img {
   outline: none !important;
   box-shadow: 0 0 0 2px rgba(0,0,0,.18); /* 颜色可按需调整/用 currentColor */
   border-radius: 8px;                    /* 与徽章圆角一致 */
-}
-.bibbox {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
 }
 
 .underline{
