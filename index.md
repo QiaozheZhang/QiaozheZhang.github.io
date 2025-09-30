@@ -15,8 +15,6 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 # Selected work
 
 {% include paper_md/renyi_sharpness.md %}
-
-<!-- -->
 {% include paper_md/pruning_limit.md %}
 
 <!-- -->
