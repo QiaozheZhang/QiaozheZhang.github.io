@@ -97,6 +97,8 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 }</code></pre></div>
   <div id="abstract" class="bibbox"><pre><code class="language-bibtex">Monocular simultaneous localization and mapping (SLAM) is a key enabling technique for many computer vision and robotics applications. However, existing methods either can obtain only sparse or semi-dense maps in highly-textured image areas or fail to achieve a satisfactory reconstruction accuracy. In this paper, we present a new method based on a generative adversarial network,named DM-GAN, for real-time dense mapping based on a monocular camera. Specifcally, our depth generator network takes a semidense map obtained from motion stereo matching as a guidance to supervise dense depth prediction of a single RGB image. The depth generator is trained based on a combination of two loss functions, i.e. an adversarial loss for enforcing the generated depth maps to reside on the manifold of the true depth maps and a pixel-wise mean square error (MSE) for ensuring the correct absolute depth values. Extensive experiments on three public datasets demonstrate that our DM-GAN signifcantly outperforms the state-of-the-art methods in terms of greater reconstruction accuracy and higher depth completeness.</code></pre></div>
 
+<!-- -->
+{% include paper_md/acmm18.md %}
 # Services
 Review: NeurIPS'24, ICLR'25, ICML'25, NeurIPS'25, ICLR'26, etc
 
