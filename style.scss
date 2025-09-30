@@ -224,13 +224,6 @@ img {
 .newbadges[data-open="bib"] ~ #bib { display: block; }
 .newbadges[data-open="abstract"] ~ #abstract { display: block; }
 
-/* 被选中的徽章高亮（可按需调整） */
-.newbadges[data-open="bib"] .newbadge[data-tab="bib"],
-.newbadges[data-open="abstract"] .newbadge[data-tab="abstract"]{
-  filter: brightness(0.95);
-  box-shadow: inset 0 0 0 2px rgba(0,0,0,.08);
-}
-
 /* 让“按钮”可点 */
 .newbadges .newbadge[data-tab]{ cursor:pointer; user-select:none; }
 
