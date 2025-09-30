@@ -1,6 +1,6 @@
 - <span class="badge">Preprint</span> **Multi-level Multiple Instance Learning with Transformer for Whole Slide Image Classification** <br>
   Ruijie Zhang, <span class="underline"><b>Qiaozhe Zhang</b></span>, Yingzhuang Liu, Hao Xin, Yan Liu, Xinggang Wang <br>
-  Arxiv 2023 <br>
+  arXiv 2023 <br>
   <div class="newbadges" id="tabs" data-open="">
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
