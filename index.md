@@ -82,7 +82,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 <!-- -->
 - <span class="badge">ACM MM 2018</span> **Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial Network** <br>
   Xin Yany, Jinyu Chen, Zhiwei Wang, <span class="underline"><b>Qiaozhe Zhang</b></span>, Wenyu Liu, Chunyuan Liao, Kwang-Ting Cheng <br>
-  Proceedings of the 26th ACM international conference on Multimedia, 896-904 <br>
+  Proceedings of the 26th ACM international conference on Multimedia (ACM MM), 2018 <br>
   <div class="newbadges" id="tabs" data-open="">
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
