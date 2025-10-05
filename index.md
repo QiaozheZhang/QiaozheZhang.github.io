@@ -14,7 +14,7 @@ Previously, I received my B.Eng degree (2014-2018) in Electronic Information Eng
 
 My research interests broadly lie in the theoretical understanding of deep learning models. I am particularly fascinated by simple yet principled approaches that can shed light on the fundamental capabilities and limitations of modern models. I am motivated by questions that bridge theory and practice, aiming to build frameworks that not only explain why current methods work but also guide the design of future ones.
 
-Recently, my work has focused on three interrelated directions: model compression and capacity, generalization, and robustness. These aspects are central to both the efficiency and reliability of deep learning, and I am especially interested in developing theoretical tools that help us better understand the trade-offs between them.
+These days, I am mostly drawn by three interrelated directions: model compression and capacity, generalization, and robustness. These aspects are central to both the efficiency and reliability of deep learning, and I am especially interested in developing theoretical tools that help us better understand the trade-offs between them.
 
 <!-- News -->
 
