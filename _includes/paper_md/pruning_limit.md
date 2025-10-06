@@ -1,5 +1,5 @@
 <!-- -->
-- <span class="badge">NeurIPS 2024</span> **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
+- <span class="badge">C</span> <span class="badge">NeurIPS 2024</span> **How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Ruijie Zhang, Jun Sun, Yingzhuang Liu <br>
   The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 <br>
   <div class="newbadges" id="tabs" data-open="">
