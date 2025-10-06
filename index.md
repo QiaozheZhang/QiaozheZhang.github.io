@@ -18,7 +18,7 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 
 <!-- News -->
 
-# Selected works
+# Selected Works
 
 <!--<span class="badge">J</span> Journal <span class="badge">C</span> Conference <br>-->
 
