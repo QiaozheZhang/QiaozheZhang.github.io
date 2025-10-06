@@ -20,6 +20,8 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 
 # Selected work
 
+<span class="badge">J</span> Journal <span class="badge">C</span> Conference <br>
+
 {% include paper_md/renyi_sharpness.md %}
 
 {% include paper_md/pruning_limit.md %}
