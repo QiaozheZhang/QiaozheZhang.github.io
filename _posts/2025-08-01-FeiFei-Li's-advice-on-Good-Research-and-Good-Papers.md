@@ -13,7 +13,7 @@ By Fei-Fei Li, 2009.03.01
 
 Please remember this:
 
-> 1000+ computer vision papers get published every year!
+> 1000+ computer vision papers get published every year! 
 > Only 5-10 are worth reading and remembering!
 
 Since many of you are writing your papers now, I thought that I’d share these thoughts with you. I probably have said all these at various points during our group and individual meetings. But as I continue my AC reviews these days (that’s 70 papers and 200+ reviews — between me and my AC partner), these following points just keep coming up. Not enough people conduct first class research. And not enough people write good papers.
