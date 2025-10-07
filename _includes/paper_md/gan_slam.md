@@ -1,5 +1,5 @@
 <!-- -->
-- <span class="badge">C</span><span class="badge">ACM MM 2018</span> **Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial Network** <br>
+- <span class="badge">ACM MM 2018</span> **Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial Network** <br>
   Xin Yany, Jinyu Chen, Zhiwei Wang, <span class="underline"><b>Qiaozhe Zhang</b></span>, Wenyu Liu, Chunyuan Liao, Kwang-Ting Cheng <br>
   Proceedings of the 26th ACM international conference on Multimedia (ACM MM), 2018 <br>
   <div class="newbadges" id="tabs" data-open="">
