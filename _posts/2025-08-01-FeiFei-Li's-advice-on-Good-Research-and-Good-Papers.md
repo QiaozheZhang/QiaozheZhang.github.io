@@ -1,3 +1,8 @@
+---
+layout: post
+title: FeiFei Li's advice on Good Research and Good Papers
+---
+
 [Fei-Fei Li](http://vision.stanford.edu/feifeili/), Director of the [Stanford Artificial Intelligence Lab](http://ai.stanford.edu/) and the [Stanford Vision Lab](http://vision.stanford.edu/), provided some advice on writing academic papers in the year of 2009. Those advices were orignally found in [Hongwei Qin's Blog](http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/), and I copied it to here.
 
 Here is the Fei-Fei’s advice.
