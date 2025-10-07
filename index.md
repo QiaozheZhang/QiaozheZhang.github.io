@@ -18,7 +18,7 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 
 <!-- News -->
 
-# Selected Works
+# Publications
 
 <!--<span class="badge">J</span> Journal <span class="badge">C</span> Conference <br>-->
 
@@ -27,6 +27,8 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 {% include paper_md/pruning_limit.md %}
 
 {% include paper_md/mmil.md %}
+
+{% include paper_md/gan_slam.md %}
 
 # Services
 **Conference Reviewers**
