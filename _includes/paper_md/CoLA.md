@@ -1,6 +1,6 @@
 <!-- -->
 - <span class="badge">EMNLP 2025 </span> **CoLA: Compute-Efficient Pre-Training of LLMs via Low-Rank Activation <span style="color:red">(oral)</span>** <br>
-  Ziyue Liu<sup>*</sup>, <span class="underline"><b>Ruijie Zhang</b></span><sup>*</sup>, Zhengyang Wang<sup>*</sup>, Mingsong Yan, Zi Yang, Paul Hovland, Bogdan Nicolae, Franck Cappello, Sui Tang, Zheng Zhang  <br>
+  Ziyue Liu<sup>*</sup>, <span class="underline"><b>Ruijie Zhang</b></span><sup>*</sup>, Zhengyang Wang<sup>*</sup>, Mingsong Yan, Zi Yang, Paul Hovland, Bogdan Nicolae, Franck Cappello, Sui Tang, Zheng Zhang (<sup>*</sup> Equal contributions) <br>
   The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) <br>
   <div class="newbadges" id="tabs" data-open="">
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
