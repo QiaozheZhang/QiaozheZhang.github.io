@@ -27,8 +27,6 @@ My research interests focus on efficient pre-training for LLMs/VLMs, AI for scie
 
 # Publications
 
-<sup>*</sup> Equal contributions
-
 <!--<span class="badge">J</span> Journal <span class="badge">C</span> Conference <br>-->
 
 {% include paper_md/renyi_sharpness.md %}
