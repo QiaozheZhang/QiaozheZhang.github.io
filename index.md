@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/icon.JPG" width="220" height="220">
+<img style="float:right; padding-left:10px" src="images/icon.JPG" width="220" height="268">
 
 I am a Ph.D. student at Computer Science, [University of California at Santa Barbara](https://www.cs.ucsb.edu/), supervised by [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/).
 
