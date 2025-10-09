@@ -6,9 +6,9 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="220" height="220">
 
-I am a Ph.D. student in [EIC](https://english.eic.hust.edu.cn) at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by [Prof. Jun Sun](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15979) and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15939). 
+I am a Ph.D. student in [EIC](https://english.eic.hust.edu.cn){:target="_blank" rel="noopener"} at [Huazhong University of Science and Technology](https://english.hust.edu.cn/){:target="_blank" rel="noopener"}, supervised by [Prof. Jun Sun](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15979){:target="_blank" rel="noopener"} and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15939){:target="_blank" rel="noopener"}. 
 
-Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/), worked with [Prof. Xin Yang](https://sites.google.com/view/xinyang/home).
+Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/){:target="_blank" rel="noopener"}, worked with [Prof. Xin Yang](https://sites.google.com/view/xinyang/home){:target="_blank" rel="noopener"}.
 
 # Research Interests
 
