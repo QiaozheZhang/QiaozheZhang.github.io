@@ -6,17 +6,24 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/selfandcat.jpg" width="220" height="220">
 
-I am a Ph.D. student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by [Prof. Jun Sun](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15979) and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15939). 
+I am a Ph.D. student at Computer Science, [University of California at Santa Barbara](https://www.cs.ucsb.edu/), supervised by [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/).
 
-Previously, I received my B.Eng degree (2014-2018) in Electronic Information Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
+Previously, I received my B.S. and M.S. from [EIC@Huazhong University of Science and Technology](http://english.eic.hust.edu.cn/), worked with [Prof. Jun Sun](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15979), [Prof. Xinggang Wang](https://xwcv.github.io/) and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15939). 
 
 # Research Interests
 
-My research interests broadly lie in the theoretical understanding of deep learning. I am particularly fascinated by simple yet principled approaches that can shed light on the fundamental capabilities and limitations of modern models, and I aim to develop frameworks that bridge theory and practice—both explaining why existing methods work and guiding the design of future ones.
+My research interests focus on efficient pre-training for LLMs/VLMs, AI for science, computer vision, and the mathematical & physical principles behind them. I have recently focused on
 
-These days, I am mostly drawn by three interrelated directions: model compression and capacity, generalization, and robustness. These aspects are central to efficiency, reliability, and interpretability of deep learning, and I am especially interested in developing theoretical tools that help us better understand the trade-offs between them.
+ - Low-rank pre-training foundation models.
+ - Low-precision training.
+ - Sparse attention.
 
-<!-- News -->
+# News 
+
+[09/2025] One of our recent works has been accepted by NeurIPS 2025. Congratulations to all collaborators!
+
+[08/2025] One of our recent works has been accepted by EMNLP 2025 <span style="color:red">(oral)</span>. Congratulations to all collaborators!
+
 
 # Publications
 
@@ -27,11 +34,3 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 {% include paper_md/pruning_limit.md %}
 
 {% include paper_md/mmil.md %}
-
-{% include paper_md/gan_slam.md %}
-
-# Services
-**Conference Reviewers**
-- Neural Information Processing Systems (NeurIPS) 2024 - 2025
-- International Conference on Learning Representations (ICLR) 2025 - 2026
-- International Conference on Machine Learning (ICML) 2025 - 2026
