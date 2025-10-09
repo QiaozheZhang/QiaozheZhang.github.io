@@ -1,4 +1,4 @@
-Code of the personal website page: https://qiaozhezhang.bestlab.top
+Code of the personal website page: https://ruijiezhang.bestlab.top
 
 This repo is based on the template by [Jekyll Repository](https://github.com/jekyll/jekyll)
 
