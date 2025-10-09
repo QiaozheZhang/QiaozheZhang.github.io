@@ -24,7 +24,7 @@ My research interests focus on efficient pre-training for LLMs/VLMs, AI for scie
 
 [08/2025] One of our recent works has been accepted by EMNLP 2025 <span style="color:red">(oral)</span>. Congratulations to all collaborators!
 
-[09/2024] Joined Computer Science@UCSB Program.
+[09/2024] Joined Computer Science@UCSB Ph.D Program.
 
 [09/2024] One of our recent works has been accepted by NeurIPS 2025. Congratulations to all collaborators!
 
