@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Qiaozhe Zhang
+name: Ruijie Zhang
 
 # Short bio or description (displayed in the header)
-description: 张乔喆
+description: 张睿杰
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/QiaozheZhang/QiaozheZhang.github.io/blob/master/images/cat.jpg
@@ -19,17 +19,17 @@ about: about/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: qiaozhezhang1@gmail.com
-  googlescholar: OllfhOIAAAAJ
+  email: ruijiezhang@ucsb.edu
+  googlescholar: ZFNjMTwAAAAJ
   facebook:
   flickr:
-  github: QiaozheZhang
+  github: K1seki221
   instagram:
   blog: blog
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: RegulusLeonis14
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,14 +37,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: qiaozhe
+disqus: # qiaozhe
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://qiaozhezhang.bestlab.top
+url: https://ruijiezhang.bestlab.top
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
