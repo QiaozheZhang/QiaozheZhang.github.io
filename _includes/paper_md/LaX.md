@@ -1,6 +1,6 @@
 <!-- -->
 - <span class="badge">NeurIPS 2025</span> **LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing** <br>
-  <span class="underline"><b>Ruijie Zhang</b></span><sup>*</sup>, Ziyue Liu<sup>*</sup>, Zhengyang Wang, Zheng Zhang <br>
+  <span class="underline"><b>Ruijie Zhang</b></span><sup>*</sup>, Ziyue Liu<sup>*</sup>, Zhengyang Wang, Zheng Zhang (<sup>*</sup> Equal contributions) <br>
   The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 <br>
   <div class="newbadges" id="tabs" data-open="">
   <button class="newbadge green"  type="button" data-tab="bib">bib</button>
