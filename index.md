@@ -26,7 +26,7 @@ My research interests focus on efficient pre-training for LLMs/VLMs, AI for scie
 
 [09/2024] Joined Computer Science@UCSB Ph.D Program.
 
-[09/2024] One of our recent works has been accepted by NeurIPS 2025. Congratulations to all collaborators!
+[09/2024] One of our recent works has been accepted by NeurIPS 2024. Congratulations to all collaborators!
 
 # Publications
 
