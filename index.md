@@ -33,5 +33,6 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 # Services
 **Conference Reviewers**
 - Neural Information Processing Systems (NeurIPS) 2024 - 2025
+  - [Top Reviewer of NeurIPS 2025](https://neurips.cc/Conferences/2025)
 - International Conference on Learning Representations (ICLR) 2025 - 2026
 - International Conference on Machine Learning (ICML) 2025 - 2026
