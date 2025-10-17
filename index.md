@@ -16,6 +16,8 @@ My research interests broadly lie in the theoretical understanding of deep learn
 
 These days, I am mostly drawn by three interrelated directions: model compression and capacity, generalization, and robustness. These aspects are central to efficiency, reliability, and interpretability of deep learning, and I am especially interested in developing theoretical tools that help us better understand the trade-offs between them.
 
+<span style="color:red;">I am open to academic collaborations, feel free to get in touch if you are interested.</span>
+
 <!-- News -->
 
 # Publications
