@@ -1,5 +1,5 @@
 <!-- -->
-- <span class="badge"ICLR 2026</span> **Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization** <br>
+- <span class="badge">ICLR 2026</span> **Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Ruijie Zhang, Yingzhuang Liu <br>
   The Fourteenth International Conference on Learning Representations (ICLR), 2026 <br>
   <div class="newbadges" id="tabs" data-open="">
