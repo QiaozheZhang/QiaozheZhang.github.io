@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/images/FDBAA9C5-22F6-4519-B173-9C5763715FCD.png" width="220" height="220">
+<img style="float:right; padding-left:10px" src="images/FDBAA9C5-22F6-4519-B173-9C5763715FCD.png" width="220" height="220">
 
 I am a Ph.D. student in [EIC](https://english.eic.hust.edu.cn){:target="_blank" rel="noopener"} at [Huazhong University of Science and Technology](https://english.hust.edu.cn/){:target="_blank" rel="noopener"}, supervised by [Prof. Jun Sun](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15979){:target="_blank" rel="noopener"} and [Prof. Yingzhuang Liu](https://hust.teacher.360eol.com/teacherBasic/preview?teacherType=&teacherId=15939){:target="_blank" rel="noopener"}. 
 
