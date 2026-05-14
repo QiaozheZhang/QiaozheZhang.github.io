@@ -7,6 +7,7 @@
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
   <a class="newbadge blue" href="https://arxiv.org/pdf/2510.07758" target="_blank" rel="noopener">pdf</a>
   <a class="newbadge red"  href="https://github.com/QiaozheZhang/RSAM" target="_blank" rel="noopener">code</a>
+  <a class="newbadge purple"  href="https://iclr.cc/virtual/2026/poster/10007148" target="_blank" rel="noopener">ICLR</a>
   </div>
   <div id="bib" class="bibbox" markdown="1"><pre><code class="language-bibtex">@misc{zhang2025renyisharpnessnovelsharpness,
       title={R\'enyi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization}, 
