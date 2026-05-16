@@ -19,7 +19,11 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 <span style="color:red;">I am open to academic collaborations, feel free to get in touch if you are interested.</span>
 
 # News
+2026/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I got the Gold Reviewer Award in ICML 2026!
+
 2026/01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper got accepted for ICLR 2026. Congratulations to all collaborators!🎉
+
+2025/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I got the Top Reviewer Award in NeurIPS 2025!
 
 2024/09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper got accepted for NeurIPS 2024. Congratulations to all collaborators!🎉
 
