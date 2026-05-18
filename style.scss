@@ -277,13 +277,13 @@ img {
 
 .news-list {
   display: grid;
-  row-gap: 0.5rem;
+  row-gap: 0.2rem;
 }
 
 .news-item {
   display: grid;
-  grid-template-columns: 7rem 1fr;
-  column-gap: 0.4rem;
+  grid-template-columns: 4rem 1fr;
+  column-gap: 0.1rem;
   align-items: start;
 }
 
