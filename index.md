@@ -19,38 +19,36 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 <span style="color:red;">I am open to academic collaborations, feel free to get in touch if you are interested.</span>
 
 # News
-<table>
-  <tr>
-    <td style="white-space: nowrap; padding-right: 1.5rem;">2026/05</td>
-    <td>I got the Gold Reviewer Award in ICML 2026!</td>
-  </tr>
+<div class="news-list">
 
-  <tr>
-    <td style="white-space: nowrap; padding-right: 1.5rem;">2026/04</td>
-    <td>
-      Presenting
-      <a href="https://iclr.cc/virtual/2026/poster/10007148">
-        Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization
-      </a>
-      @ ICLR 2026. See you in Rio de Janeiro!
-    </td>
-  </tr>
+  <div class="news-item">
+    <div class="news-date">2026/05</div>
+    <div class="news-content">I got the Gold Reviewer Award in ICML 2026!</div>
+  </div>
 
-  <tr>
-    <td style="white-space: nowrap; padding-right: 1.5rem;">2026/01</td>
-    <td>One paper got accepted for ICLR 2026. Congratulations to all collaborators!🎉</td>
-  </tr>
+  <div class="news-item">
+    <div class="news-date">2026/04</div>
+    <div class="news-content">
+      Presenting <a href="https://iclr.cc/virtual/2026/poster/10007148">Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization</a> @ ICLR 2026. See you in Rio de Janeiro!
+    </div>
+  </div>
 
-  <tr>
-    <td style="white-space: nowrap; padding-right: 1.5rem;">2025/10</td>
-    <td>I got the Top Reviewer Award in NeurIPS 2025!</td>
-  </tr>
+  <div class="news-item">
+    <div class="news-date">2026/01</div>
+    <div class="news-content">One paper got accepted for ICLR 2026. Congratulations to all collaborators!🎉</div>
+  </div>
 
-  <tr>
-    <td style="white-space: nowrap; padding-right: 1.5rem;">2024/09</td>
-    <td>One paper got accepted for NeurIPS 2024. Congratulations to all collaborators!🎉</td>
-  </tr>
-</table>
+  <div class="news-item">
+    <div class="news-date">2025/10</div>
+    <div class="news-content">I got the Top Reviewer Award in NeurIPS 2025!</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2024/09</div>
+    <div class="news-content">One paper got accepted for NeurIPS 2024. Congratulations to all collaborators!🎉</div>
+  </div>
+
+</div>
 
 # Publications
 
