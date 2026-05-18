@@ -277,19 +277,20 @@ img {
 
 .news-list {
   display: grid;
-  row-gap: 0.7rem;
+  row-gap: 0.5rem;
 }
 
 .news-item {
   display: grid;
   grid-template-columns: 7rem 1fr;
-  column-gap: 0.8rem;
+  column-gap: 0.4rem;
   align-items: start;
 }
 
 .news-date {
   white-space: nowrap;
   color: #333;
+  align-self: center;
 }
 
 .news-content {
