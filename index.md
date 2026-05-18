@@ -21,7 +21,7 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 # News
 2026/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I got the Gold Reviewer Award in ICML 2026!
 
-2026/01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](https://iclr.cc/virtual/2026/poster/10007148) @ ICLR 2026. See you in Rio de Janeiro!
+2026/04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presenting [Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](https://iclr.cc/virtual/2026/poster/10007148) @ ICLR 2026. See you in Rio de Janeiro!
 
 2026/01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper got accepted for ICLR 2026. Congratulations to all collaborators!🎉
 
