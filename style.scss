@@ -275,6 +275,27 @@ img {
     clear: both;
 }
 
+.news-list {
+  display: grid;
+  row-gap: 1.1rem;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  column-gap: 1.5rem;
+  align-items: start;
+}
+
+.news-date {
+  white-space: nowrap;
+  color: #333;
+}
+
+.news-content {
+  min-width: 0;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
