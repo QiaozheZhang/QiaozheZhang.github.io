@@ -34,9 +34,12 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 {% include paper_md/gan_slam.md %}
 
 # Services
-**Conference Reviewers**
+**Conference Reviewer**
 - Neural Information Processing Systems (NeurIPS) 2024 - 2026
   - [Top Reviewer of NeurIPS 2025](https://neurips.cc/Conferences/2025)
 - International Conference on Learning Representations (ICLR) 2024 - 2026
 - International Conference on Machine Learning (ICML) 2024 - 2026
   - [Gold Reviewer of ICML 2026](https://icml.cc/Conferences/2026)
+- Northern Lights Deep Learning Conference (NLDL) 2027
+**Journal Reviewer**
+- Transactions on Machine Learning Research
