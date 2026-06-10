@@ -43,4 +43,4 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 - Northern Lights Deep Learning Conference (NLDL) 2027
 
 **Journal Reviewer**
-- Transactions on Machine Learning Research
+- Transactions on Machine Learning Research (TMLR)
