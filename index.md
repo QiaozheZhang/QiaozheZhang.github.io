@@ -40,7 +40,7 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 - International Conference on Learning Representations (ICLR) 2024 - 2026
 - International Conference on Machine Learning (ICML) 2024 - 2026
   - [Gold Reviewer of ICML 2026](https://icml.cc/Conferences/2026)
-- Association for the Advancement of Artificial Intelligence (AAAI) 2027
+- AAAI Conference on Artificial Intelligence (AAAI) 2027
 - Northern Lights Deep Learning Conference (NLDL) 2027
 
 **Journal Reviewer**
