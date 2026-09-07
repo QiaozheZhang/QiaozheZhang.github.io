@@ -1,7 +1,7 @@
 <!-- -->
 - <span class="badge">Preprint</span> **Beyond the Matrix Sign: Quadratic Spectral Descent** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Yingzhuang Liu <br>
-  arXiv 2026  <br>
+  submitted to arXiv 2026  <br>
   <div class="newbadges" id="tabs" data-open="">
   <!--  <button class="newbadge green"  type="button" data-tab="bib">bib</button> -->
   <button class="newbadge orange" type="button" data-tab="abstract">abstract</button>
