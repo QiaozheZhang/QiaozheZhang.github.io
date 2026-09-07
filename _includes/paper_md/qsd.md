@@ -1,5 +1,5 @@
 <!-- -->
-- <span class="badge">Preprint</span> **Beyond the Matrix Sign: Quadratic Spectral Descent** <br>
+- <span class="badge">Manuscript</span> **Beyond the Matrix Sign: Quadratic Spectral Descent** <br>
   <span class="underline"><b>Qiaozhe Zhang</b></span>, Jun Sun, Yingzhuang Liu <br>
   submitted to arXiv 2026  <br>
   <div class="newbadges" id="tabs" data-open="">
