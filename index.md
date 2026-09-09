@@ -18,6 +18,8 @@ These days, I am mostly drawn by three interrelated directions: model compressio
 
 <span style="color:red;">I am open to academic collaborations, feel free to get in touch if you are interested.</span>
 
+<span style="color:red;">**I am currently seeking postdoctoral opportunities starting in 2027. Please feel free to reach out if you see a potential research fit.**</span>
+
 # News
 {% include News.md %}
 
