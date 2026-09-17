@@ -12,7 +12,10 @@
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    {% if page.title and page.title != "About" %}
+    <meta property="og:title" content="{{ page.title }} - {{ site.name }}" />
+    <meta property="twitter:title" content="{{ page.title }} - {{ site.name }}" />
+    {% else %}
+    <meta property="og:title" content="{{ site.name }}" />
+    <meta property="twitter:title" content="{{ site.name }}" />
     {% endif %}
