@@ -1,4 +1,13 @@
 <div class="news-list">
+  <div class="news-item">
+    <div class="news-date">2026/10</div>
+    <div class="news-content">I got the Top Reviewer Award in NeurIPS 2026!</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026/09</div>
+    <div class="news-content"> <a href="https://arxiv.org/abs/2609.07597">Our new preprint on Quadratic Spectral Descent (QSD)</a> is now available on arXiv!</div>
+  </div>
 
   <div class="news-item">
     <div class="news-date">2026/05</div>
