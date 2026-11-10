@@ -6,7 +6,7 @@
 
   <div class="news-item">
     <div class="news-date">2026/09</div>
-    <div class="news-content"> <a href="https://arxiv.org/abs/2609.07597">Our new preprint on Quadratic Spectral Descent (QSD)</a> is now available on arXiv!</div>
+    <div class="news-content">Our new preprint on <a href="https://arxiv.org/abs/2609.07597">Quadratic Spectral Descent (QSD)</a> is now available on arXiv!</div>
   </div>
 
   <div class="news-item">
